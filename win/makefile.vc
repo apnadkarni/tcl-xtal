@@ -15,7 +15,6 @@
 # of this file, and for a DISCLAIMER OF ALL WARRANTIES.
 #
 PROJECT = xtal
-DOTVERSION=0.1
 
 !include "rules-ext.vc"
 
